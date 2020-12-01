@@ -1,0 +1,20 @@
+nav{
+	background: blue;
+}
+table tr th{
+
+    text-align: left;
+    padding-right: 230px;
+}
+h6{
+	padding-left: 5px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+p{
+	margin: 12px;
+	padding-top: 10px;
+}
+a{
+	margin: 12px;
+}
